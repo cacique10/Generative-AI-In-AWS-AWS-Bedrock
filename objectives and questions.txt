@@ -1,0 +1,15 @@
+
+
+	10/06/24
+
+		
+	------------------------------------------------------------------------------
+	
+	
+	
+	Project Objectives:
+
+		- Experiment with GENAI on AWS bedrock
+		- Get to know GenAi and pratices
+		- Upload the project to GitHub.
+		
